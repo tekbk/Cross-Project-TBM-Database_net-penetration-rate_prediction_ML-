@@ -22,13 +22,13 @@
 This repository presents a **machine learning (ML)-based framework** for **TBM penetration rate prediction** in the challenging geological conditions of the Himalayas. The study utilizes **Cross-Project Database** with **TBM operational data from the Bheri Babai Diversion Multipurpose (BBDM) Project and Sunkoshi Marin Diversion Multipurpose (SMDM) project in Nepal**.
 
 ### Key Highlights
-- Machine learning (ML)-based model developed to predict **TBM net penetration rate (PRnet)**.  
+- Machine learning (ML)-based model developed to predict **TBM net penetration rate (PRnet)** using **cross-project database**.  
 - **TBM operational parameters** and **geological conditions** are utilized as input parameters.  
 - Prediction model incorporates **data anomalies** associated with complex geological environments.  
 - Impact of input features on TBM net penetration rate evaluated using the **SHAP method**.  
-- Combined Jamming Risk (CJR) scoring system used to forecast TBM jamming risk.
-- TBM jamming can potentially be predicted at least 1.5 m ahead of the tunnel face.
-- Empirical ranges of TBM parameters were established to ensure operational safety.
+- **Combined Jamming Risk (CJR)** scoring system used to forecast TBM jamming risk.
+- **TBM jamming** can potentially be predicted **at least 1.5 m ahead** of the tunnel face.
+- **Empirical ranges** of TBM parameters were established to ensure **operational safety**.
 
 
 
@@ -112,4 +112,4 @@ Cross-Project-TBM-Database_net-penetration-rate_prediction_ML/
 ---
 
 **© 2025 Norwegian University of Science and Technology (NTNU)**  
-*Authors: Tek Bahadur Katuwal & Krishna Kanta Panthi*
+*Authors: Tek Bahadur Katuwal, Krishna Kanta Panthi  & Chhatra Bahadur Basnet*
